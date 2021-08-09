@@ -1,0 +1,1 @@
+pring("Welcome to school!")
